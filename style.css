@@ -1,0 +1,30 @@
+h1 {
+        background-image: url(Sea.jpg);
+        width: device-width;
+        height: 330px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-color: #3f3f3f;
+        overflow: visible;
+        text-align: center;
+        padding: 40px;
+        margin: 0px;
+
+
+        color: #000069;
+      }
+  /**{margin: 0;}*/
+  #round {border-radius: 25px;}
+  #circle { border-radius: 50%;}
+  nav ul li{
+    display: inline;}
+  body{
+    margin: 0;
+    background-image: url(paper.png);
+    background-repeat: repeat;
+  }
+  a{
+    color: black;
+    text-decoration: none;
+  }
